@@ -2,6 +2,11 @@
 
 This project is a Python-based video editing tool that allows users to perform various video editing tasks, including trimming, merging, adjusting speed, adding background music, embedding subtitles, and using speech recognition to generate subtitles.
 
+https://github.com/user-attachments/assets/d9ff80f7-942c-4b45-88c2-476d82ee10c7
+
+
+☝️**The above Extracting Audio from Video and Generate Subtitle with Various Font Styles**
+
 ## Features
 
 - **Trim Videos**: Cut specific parts of a video.
