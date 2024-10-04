@@ -27,6 +27,10 @@ Before running the project, make sure you have:
 - Python 3.x installed
 - FFmpeg installed and added to your system path
 
+## Contributing
+- If you wish to contribute to this project, please fork the repository and submit a pull request.
+- For major changes, open an issue first to discuss the changes you'd like to make.
+
 ## Installation
 
 Clone the repository:
@@ -45,4 +49,10 @@ Create a virtual environment (optional but recommended):
 Install the required dependencies:
 
 ```pip install -r requirements.txt```
+
+
+
+
+
+
 
