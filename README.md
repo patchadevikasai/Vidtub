@@ -1,4 +1,4 @@
-# Python Video Editing Tool
+# Video Editing Application using Python
 
 This project is a Python-based video editing tool that allows users to perform various video editing tasks, including trimming, merging, adjusting speed, adding background music, embedding subtitles, and using speech recognition to generate subtitles.
 
